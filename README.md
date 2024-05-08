@@ -17,4 +17,11 @@ bash init_setup.sh
 
 ```
 chainlit hello
+
+```
+
+### Command to run application
+```
+chainlit run app.py -w
+
 ```
